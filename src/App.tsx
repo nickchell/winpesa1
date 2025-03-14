@@ -84,7 +84,7 @@ function Header() {
               <Search className="absolute right-3 top-2.5 text-gray-400" size={20} />
             </div>
             <div className="flex items-center gap-2 text-yellow-400">
-              <span>1</span>
+              <span>0</span>
               <span>KSH</span>
             </div>
             <button 
