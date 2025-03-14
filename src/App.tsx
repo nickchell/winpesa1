@@ -151,7 +151,7 @@ function DepositPage({ onBack }: { onBack: () => void }) {
     setMessage('');
 
     try {
-      const response = await fetch('https://victorian-lenders-viewpicture-dimensions.trycloudflare.com/api/deposit', {
+      const response = await fetch('https://pastor-brief-jill-improvements.trycloudflare.com/api/deposit', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
