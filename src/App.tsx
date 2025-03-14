@@ -214,7 +214,7 @@ function DepositPage({ onBack }: { onBack: () => void }) {
               className="bg-yellow-400 text-black px-4 py-2 md:px-6 md:py-3 rounded font-semibold w-full hover:bg-yellow-500 disabled:opacity-50"
               disabled={isSubmitting}
             >
-              {isSubmitting ? 'Processing...' : 'Deposit Now'}
+              {isSubmitting ? 'Processing...' : 'Enter '}
             </button>
           </form>
         </div>
