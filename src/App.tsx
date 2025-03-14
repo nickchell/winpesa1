@@ -84,8 +84,8 @@ function Header() {
               <Search className="absolute right-3 top-2.5 text-gray-400" size={20} />
             </div>
             <div className="flex items-center gap-2 text-yellow-400">
-              <span>0</span>
               <span>KSH</span>
+              <span>20</span>
             </div>
             <button 
               className="bg-green-400 px-4 py-1 md:px-6 md:py-2 rounded font-semibold hover:bg-green-500 text-sm md:text-base"
