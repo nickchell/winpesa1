@@ -151,7 +151,7 @@ function DepositPage({ onBack }: { onBack: () => void }) {
     setMessage('');
 
     try {
-      const response = await fetch('https://pastor-brief-jill-improvements.trycloudflare.com/api/deposit', {
+      const response = await fetch('https://tractor-shopzilla-ver-promotion.trycloudflare.com ', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
