@@ -122,6 +122,9 @@ function PromotionsPage({ onBack, onClaim }: { onBack: () => void; onClaim: () =
               <li>Deposit any amount from 10 KSH to 5000 KSH</li>
               <li>Receive an instant 100% bonus</li>
               <li>Withdraw your bonus  any time</li>
+              <input type="text" placeholder="ENTER PROMO CODE" style={{ color: "black", marginLeft:"20px" }} />
+
+
             </ul>
             <button 
               className="bg-yellow-400 text-black px-4 py-2 md:px-6 md:py-3 rounded font-semibold w-full hover:bg-yellow-500"
